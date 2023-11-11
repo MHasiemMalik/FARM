@@ -1,4 +1,4 @@
-import './style.css';
+//import './src/';
 import { getWeather } from './src/weather.js';
 import { ICON_MAP } from './src/iconMap.js';
 
